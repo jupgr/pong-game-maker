@@ -10,10 +10,10 @@ Este projeto foi criado com foco no aprendizado, explorando conceitos como:
 - Controle de teclado
 - Organização básica de scripts e objetos
 
-## Tecnologias
+ Tecnologias
 - Game Maker Studio 2
 - GML (Game Maker Language)
-
+##
 ## O que o projeto inclui
 - Scripts de movimentação
 - Sistema simples de pontuação
