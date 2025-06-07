@@ -24,7 +24,7 @@ Este projeto foi criado com foco no aprendizado, explorando conceitos como:
 **ou**
 - Clone este repositório se estiver usando o projeto no formato `.yyp` (projeto descompactado).
 
-- 
+
 ## Controles
 - **Jogador 1**: `W` (sobe) / `S` (desce)  
 - **Jogador 2**: `↑` (sobe) / `↓` (desce)
