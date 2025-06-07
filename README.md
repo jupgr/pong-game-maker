@@ -1,31 +1,35 @@
 # Pong no Game Maker 🎮
 
-Este é um clone simples do clássico Pong, desenvolvido no Game Maker Studio como exercício de lógica e programação básica.
-
-## Tecnologias Utilizadas
-
-- Game Maker Studio 2
-- GML (Game Maker Language)
+Recriação simples do clássico **Pong**, desenvolvida no **Game Maker Studio 2** como exercício para praticar lógica e programação básica.
 
 ## Objetivo
-
-Recriar o jogo Pong para praticar conceitos como:
-
-- Detecção de colisão
+Este projeto foi criado com foco no aprendizado, explorando conceitos como:
+- Detecção de colisões
 - Movimento de objetos
 - Contagem de pontos
 - Controle de teclado
+- Organização básica de scripts e objetos
 
-## 🎮 Como Jogar
+## Tecnologias
+- Game Maker Studio 2
+- GML (Game Maker Language)
 
-- Jogador 1: W e S para cima/baixo
-- Jogador 2: ↑ e ↓ para cima/baixo
-- O primeiro a fazer 10 pontos vence!
-
-O projeto inclui:
-
+## O que o projeto inclui
 - Scripts de movimentação
-- Sistema de pontuação
-- Interface simples com HUD
+- Sistema simples de pontuação
+- Interface com HUD minimalista
 
-*Projeto pessoal — sem fins lucrativos.*
+## Como abrir
+- Baixe o arquivo `.yyz` e importe no Game Maker Studio: `File > Import Project`
+**ou**
+- Clone este repositório se estiver usando o projeto no formato `.yyp` (projeto descompactado).
+
+- 
+## Controles
+- **Jogador 1**: `W` (sobe) / `S` (desce)  
+- **Jogador 2**: `↑` (sobe) / `↓` (desce)
+
+---
+
+*Projeto pessoal para fins educacionais. Sinta-se livre para explorar e modificar!*
+
