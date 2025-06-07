@@ -25,8 +25,7 @@ Este projeto foi criado com foco no aprendizado, explorando conceitos como:
 
 ## Como abrir
 
-- Baixe o arquivo `.yyz` e importe no Game Maker Studio:  
-  `File > Import Project`
+- Baixe o arquivo `.yyz` e importe no Game Maker Studio: `File > Import Project`
 **ou**
 - Clone este repositório se estiver usando o projeto no formato `.yyp` (projeto descompactado).
 
