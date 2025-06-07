@@ -1,7 +1,6 @@
-# Pong no Game Maker 🎮
-
+Pong no Game Maker 🎮
 Recriação simples do clássico **Pong**, desenvolvida no **Game Maker Studio 2** como exercício para praticar lógica e programação básica.
-
+# 
  Objetivo
 Este projeto foi criado com foco no aprendizado, explorando conceitos como:
 - Detecção de colisões
