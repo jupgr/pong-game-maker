@@ -29,7 +29,10 @@ Este projeto foi criado com foco no aprendizado, explorando conceitos como:
 - **Jogador 1**: `W` (sobe) / `S` (desce)  
 - **Jogador 2**: `↑` (sobe) / `↓` (desce)
 
----
+## 🎮 Prévia do jogo
+(https://imgur.com/a/gecjsSq)
 
+
+---
 *Projeto pessoal para fins educacionais. Sinta-se livre para explorar e modificar!*
 
